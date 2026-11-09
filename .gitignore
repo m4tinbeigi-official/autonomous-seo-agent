@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.seo_backup/
+.DS_Store
+*.bak
+dist/
+out/
+.env
+.venv
